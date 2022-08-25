@@ -10,8 +10,6 @@ build/
 
 **/*.swp
 
-JSON/
-
 ### STS ###
 .apt_generated
 .classpath
